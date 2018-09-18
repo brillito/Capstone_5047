@@ -7,6 +7,9 @@ Cyd Rivera (PM) - cyd.rivera1@upr.edu </br>
 Christian Lorenzo - christian.lorenzo1@upr.edu</br>
 Yorki Serrano - yorki.serrano@upr.edu </br>
 
+Team Name: Dino Tech</br>
+Project Name: Dino Tech</br>
+
 Client Information:  </br>
 José Colom - jose.colom1@upr.edu</br>
 
